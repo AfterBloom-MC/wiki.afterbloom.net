@@ -1,139 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/</loc>
+         <loc>https://wiki.AfterBloom.net/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/commands/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/commands/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/configuration/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/configuration/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/databases/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/databases/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/eventlisteners/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/eventlisteners/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/messaging/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/messaging/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/placeholders/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/placeholders/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/protocollib/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/protocollib/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/redis/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/redis/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/scripts/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/scripts/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/tasks/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/tasks/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/managers/usage/</loc>
+         <loc>https://wiki.AfterBloom.net/managers/usage/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/misc/api/</loc>
+         <loc>https://wiki.AfterBloom.net/misc/api/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/misc/autocomplete/</loc>
+         <loc>https://wiki.AfterBloom.net/misc/autocomplete/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/misc/events/</loc>
+         <loc>https://wiki.AfterBloom.net/misc/events/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/misc/license/</loc>
+         <loc>https://wiki.AfterBloom.net/misc/license/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/misc/plannedfeatures/</loc>
+         <loc>https://wiki.AfterBloom.net/misc/plannedfeatures/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/misc/types/</loc>
+         <loc>https://wiki.AfterBloom.net/misc/types/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/projects/projectoptions/</loc>
+         <loc>https://wiki.AfterBloom.net/projects/projectoptions/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/projects/writingprojects/</loc>
+         <loc>https://wiki.AfterBloom.net/projects/writingprojects/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/pyspigot/plugincommands/</loc>
+         <loc>https://wiki.AfterBloom.net/pyspigot/plugincommands/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/pyspigot/pluginconfiguration/</loc>
+         <loc>https://wiki.AfterBloom.net/pyspigot/pluginconfiguration/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/pyspigot/pyspigot/</loc>
+         <loc>https://wiki.AfterBloom.net/pyspigot/pyspigot/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/pyspigot/quickstart/</loc>
+         <loc>https://wiki.AfterBloom.net/pyspigot/quickstart/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/pyspigot/quickstartproject/</loc>
+         <loc>https://wiki.AfterBloom.net/pyspigot/quickstartproject/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/customevents/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/customevents/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/examples/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/examples/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/externallibraries/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/externallibraries/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/externalresources/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/externalresources/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/functionmodule/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/functionmodule/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/globalvariables/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/globalvariables/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/helpermodule/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/helpermodule/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/scriptoptions/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/scriptoptions/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
     <url>
-         <loc>https://pyspigot-docs.magicmq.dev/scripts/writingscripts/</loc>
+         <loc>https://wiki.AfterBloom.net/scripts/writingscripts/</loc>
          <lastmod>2025-08-16</lastmod>
     </url>
 </urlset>
