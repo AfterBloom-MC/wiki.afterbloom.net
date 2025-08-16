@@ -62,7 +62,7 @@ extra:
     - icon: fontawesome/brands/github
       class: md-social__link
       link: https://github.com/AfterBloom-MC
-    - icon: fontawesome/icons/globe
+    - icon: fontawesome/solid/globe
       class: md-social__link
       link: https://www.afterbloom.net
       name: Website
