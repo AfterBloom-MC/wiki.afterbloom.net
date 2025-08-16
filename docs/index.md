@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div style="text-align: center;" markdown>
-# **PySpigot**
+# **AfterBloom MC**
 </div>
 
 > A Python scripting engine for your Minecraft server.
@@ -14,98 +14,19 @@ title: Home
 [![Develop GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/magicmq/pyspigot/latest/master?label=Commits%20since%20last%20release&style=plastic)](https://github.com/magicmq/pyspigot)
 </div>
 
-## What is PySpigot?
+## What is AfterBloom?
 
-PySpigot is a Spigot/Bukkit plugin that acts as a Python scripting engine that runs in Minecraft. Users can write Python scripts, which, for lack of a better term, act as "mini-plugins". Because PySpigot runs entirely in the Minecraft environment on Java, scripts have access to the full server, including the entire Bukkit API, as well as the APIs of other plugins. With PySpigot, you can write a script that does the exact same thing a plugin can but in a small fraction of the time. PySpigot is also excellent for individuals who know Python, but not Java. PySpigot is a lot like [Skript](https://docs.skriptlang.org/), but much more powerful.
+AfterBloom is a Minecraft network focused on the players. We always prioritise your voice over our opinions. 
 
-## What Can PySpigot Do?
+## Okay, but why?
 
-<div class="grid cards" markdown>
+AfterBloom was founded by Cloudaxy
 
--   :material-clock-fast:{ .lg .middle } __Write Scripts Quickly, in Python__
+## What gamemodes do we have?
 
-    ---
+###[Survival](servers/Survival)
 
-    PySpigot scripts can do all the same things that a plugin can do. However, PySpigot scripts can be written in a fraction of the time it takes to write a full plugin.
-
-    PySpigot is also great for people who know Python, but not Java - no Java experience is required!
-
--   :octicons-project-roadmap-24:{ .lg .middle } __Write Multi-Module Projects__
-
-    ---
-
-    PySpigot fully supports writing multi-module projects. These function similarly to multi-module Python projects and offer more ideal code organization and structuring.
-
--   :octicons-smiley-24:{ .lg .middle } __Easy to Use__
-
-    ---
-
-    PySpigot's features are designed with ease of use in mind. It is easy to use for simple tasks, but you can also create really complex scripts. The possibilities are endless!
-
--   :octicons-cpu-24:{ .lg .middle } __Unrestricted Bukkit API Access__
-
-    ---
-
-    Because PySpigot runs inside of the Minecraft/Java environment, PySpigot scripts have complete access to the Bukkit/Spigot API.
-    
-    Register event listeners, create commands, schedule tasks, work with config files, and more!
-
--   :octicons-bug-24:{ .lg .middle } __Comprehensive Error Logging__
-
-    ---
-
-    PySpigot includes comprehensive error logging on a per-script basis, both to console and to a script-specific log file, making debugging as easy as possible.
-
--   :octicons-package-24:{ .lg .middle } __Full Support for External Java/Python Libraries__
-
-    ---
-
-    PySpigot includes full support for loading and working with external libraries such as the [Apache Commons](https://commons.apache.org/) libraries.
-
--   :octicons-pencil-24:{ .lg .middle } __Highly Configurable__
-
-    ---
-
-    PySpigot was designed to be as configurable as possible. There are several editable script-specific options, as well as a variety of plugin-wide options that can be configured.
-
-
--   :octicons-database-24:{ .lg .middle } __Full MySQL, MongoDB, and Redis Support__
-
-    ---
-
-    PySpigot includes support for MySQL, MongoDB, and Redis and greatly simplifies these 
-
--   :octicons-code-24:{ .lg .middle } __Full ProtocolLib Support__
-
-    ---
-
-    PySpigot has built-in support for ProtocolLib, making it easy to work with packets. There is full support for registering packet listeners, packet modification, and sending packets.
-
--   :octicons-code-24:{ .lg .middle } __Full PlaceholderAPI Support__
-
-    ---
-
-    PySpigot also has built-in support for PlaceholderAPI, making it easy to register placeholder expansions.
-
--   :material-scale-balance:{ .lg .middle } __Open Source, Apache 2.0 License__
-
-    ---
-
-    PySpigot's source is fully available on [GitHub](https://github.com/magicmq/PySpigot), and it's licensed under the [Apache 2.0 license](misc/license.md).
-
--   :octicons-star-fill-24:{ .lg .middle } __And More!__
-
-    ---
-
-    I am constantly working on new features and improvements to make scripting in Minecraft the best possible experience.
-
-    Ideas are always welcome. If you have an idea for a new feature, [submit a feature request](https://github.com/magicmq/pyspigot/issues).
-
-</div>
-
-## Examples
-
-Check out any of the [examples](scripts/examples.md) to see some examples of PySpigot scripts.
+Survival is our take on the smp, it features an economy, custom worlds, 
 
 ## Getting Started
 
