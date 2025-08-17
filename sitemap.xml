@@ -2,138 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki.AfterBloom.net/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <lastmod>2025-08-17</lastmod>
     </url>
     <url>
-         <loc>https://wiki.AfterBloom.net/managers/commands/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <loc>https://wiki.AfterBloom.net/misc/important-info/</loc>
+         <lastmod>2025-08-17</lastmod>
     </url>
     <url>
-         <loc>https://wiki.AfterBloom.net/managers/configuration/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <loc>https://wiki.AfterBloom.net/servers/network-hub/</loc>
+         <lastmod>2025-08-17</lastmod>
     </url>
     <url>
-         <loc>https://wiki.AfterBloom.net/managers/databases/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <loc>https://wiki.AfterBloom.net/servers/survival/</loc>
+         <lastmod>2025-08-17</lastmod>
     </url>
     <url>
-         <loc>https://wiki.AfterBloom.net/managers/eventlisteners/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <loc>https://wiki.AfterBloom.net/servers/technical/</loc>
+         <lastmod>2025-08-17</lastmod>
     </url>
     <url>
-         <loc>https://wiki.AfterBloom.net/managers/messaging/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <loc>https://wiki.AfterBloom.net/survival/fishing/</loc>
+         <lastmod>2025-08-17</lastmod>
     </url>
     <url>
-         <loc>https://wiki.AfterBloom.net/managers/placeholders/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/managers/protocollib/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/managers/redis/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/managers/scripts/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/managers/tasks/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/managers/usage/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/misc/api/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/misc/autocomplete/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/misc/events/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/misc/license/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/misc/plannedfeatures/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/misc/types/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/projects/projectoptions/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/projects/writingprojects/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/pyspigot/plugincommands/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/pyspigot/pluginconfiguration/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/pyspigot/pyspigot/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/pyspigot/quickstart/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/pyspigot/quickstartproject/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/customevents/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/examples/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/externallibraries/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/externalresources/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/functionmodule/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/globalvariables/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/helpermodule/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/scriptoptions/</loc>
-         <lastmod>2025-08-16</lastmod>
-    </url>
-    <url>
-         <loc>https://wiki.AfterBloom.net/scripts/writingscripts/</loc>
-         <lastmod>2025-08-16</lastmod>
+         <loc>https://wiki.AfterBloom.net/survival/how-to-earn-money/</loc>
+         <lastmod>2025-08-17</lastmod>
     </url>
 </urlset>
