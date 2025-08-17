@@ -6,13 +6,7 @@ title: Home
 # **AfterBloom MC**
 </div>
 
-> A Python scripting engine for your Minecraft server.
-
-<div style="text-align: center;" markdown>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/magicmq/pyspigot?label=Release&style=plastic)](https://github.com/magicmq/pyspigot/releases/latest)
-[![Latest snapshot](https://img.shields.io/badge/dynamic/xml?label=Latest%20snapshot&style=plastic&query=%2F%2Fmetadata%2Fversioning%2Fversions%2Fversion%5Blast()%5D&url=https%3A%2F%2Frepo.magicmq.dev%2Frepository%2Fmaven-snapshots%2Fdev%2Fmagicmq%2Fpyspigot%2Fmaven-metadata.xml)](https://ci.magicmq.dev/job/PySpigot/)
-[![Develop GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/magicmq/pyspigot/latest/master?label=Commits%20since%20last%20release&style=plastic)](https://github.com/magicmq/pyspigot)
-</div>
+> The Minecraft network where you come first.
 
 ## What is AfterBloom?
 
@@ -20,7 +14,7 @@ AfterBloom is a Minecraft network focused on the players. We always prioritise y
 
 ## Okay, but why?
 
-AfterBloom was founded by Cloudaxy
+AfterBloom was founded by Cloudaxy (Chris) to address the issues with other networks, and be a safe haven for all those 
 
 ## What gamemodes do we have?
 

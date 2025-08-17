@@ -107,7 +107,8 @@ markdown_extensions:
 nav:
   - AfterBloom:
     - Home: index.md
-    - Core servers:
+    - Getting started:
+      - Important info: misc/important-info.md
       - Network Hub: servers/network-hub.md
       - Survival: servers/survival.md
       - Technical: servers/technical.md
@@ -115,9 +116,10 @@ nav:
   - Servers:
     - Network Hub: servers/network-hub.md
     - Survival: 
-      - Survival: servers/survival.md
-      - Survival Hub: servers/survival-hub.md
       - Technical: servers/technical.md
+      - How to earn money: survival/how-to-earn-money.md
+      - Fishing: survival/fishing.md
+      - 
     
     
 
